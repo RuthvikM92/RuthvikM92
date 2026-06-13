@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ruthvik Mandala 👋</h1>
+<h1 align="center">Hi, I'm Ruthvik Meka 👋</h1>
 
 <p align="center">
   <b>Data Analyst · BI Developer · Analytics Engineer</b><br/>
