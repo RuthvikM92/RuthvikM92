@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Data Analyst with **3+ years of experience** across healthcare, finance, and operations — building pipelines, dashboards, and models that cut reporting time, surface insights, and drive measurable business outcomes.
+Data Analyst with **4+ years of experience** across healthcare, finance, and operations — building pipelines, dashboards, and models that cut reporting time, surface insights, and drive measurable business outcomes.
 
 - 🔭 Currently at **IBM** | Previously at **Wipro**
 - 🎓 **M.S. Data Analytics** — Western New England University (2025)
