@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruthvik-mandala" target="_blank">
+  <a href="https://www.linkedin.com/in/ruthvikmeka/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Springfield%2C%20MA-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -92,7 +92,7 @@ Automated financial reporting across 5 business units, consolidating P&L, varian
 
 I'm actively open to **Data Analyst**, **BI Developer**, and **Analytics Engineer** roles.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruthvik-mandala)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruthvikmeka/)
 - 📧 Reach out via LinkedIn DM
 
 <p align="center">
